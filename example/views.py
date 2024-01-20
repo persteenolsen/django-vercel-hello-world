@@ -8,7 +8,7 @@ def index(request):
     html = f'''
     <html>
         <body>
-            <h1>Hello from Python and Django hosted at Vercel !</h1>
+            <h1>Hello from Python and Django hosted at Vercel</h1>
             <p>The current time is { now }.</p>
         </body>
     </html>
