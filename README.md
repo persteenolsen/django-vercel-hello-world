@@ -6,7 +6,11 @@ This example shows how to use Django 4 on Vercel with Serverless Functions using
 
 ## Demo
 
-https://django-vercel-hello-world.pso.vercel.app/
+https://django-vercel-hello-world-pso.vercel.app/
+
+## Demo / Admin
+
+Note: The Administration part at the Demo is not configured and will not work
 
 ## How it Works
 
