@@ -4,6 +4,10 @@
 
 This example shows how to use Django 4 on Vercel with Serverless Functions using the [Python Runtime](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/python).
 
+Last updated: 30-11-2024
+
+Node version selected at Vercel Cloud: 20
+
 ## Demo
 
 https://django-vercel-hello-world-pso.vercel.app/

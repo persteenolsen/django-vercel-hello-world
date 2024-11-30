@@ -10,7 +10,7 @@ def index(request):
         <body>
             <h1>Hello from Python and Django hosted at Vercel</h1>
             <p>The current time is { now }.</p>
-            <p>Note: The Administration part of this Demo is NOT configurated for now !</p>
+            <p>Note: The Administration part of this Demo is NOT configurated for now !!</p>
         </body>
     </html>
     '''
